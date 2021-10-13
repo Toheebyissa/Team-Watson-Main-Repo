@@ -22,7 +22,7 @@ The main goal of this project is to create a bash script that will clone the rep
 # 🛠️Workflow  Process🧬
 <img align="right" src="https://user-images.githubusercontent.com/77963733/128214179-9f5bb451-9426-4ceb-b7b4-6840543e9ef4.png">
 
->This is the main repository for the Stage_0 task for the `HackBio'2021 Virtual Internship Experience` for #Team-Lamarck. <br>
+>This is the main repository for the Stage_0 task for the `HackBio'2021 Virtual Internship Experience` for #Team-watson. <br>
 The utmost priority of this project is to write small scripts in different languages with the output: `name, e-mail, slack_username, biostack, twitter_username and hamming_distance `. Next step is to make a `csv` file with rows corresponding to  the individual team member and columns to the fields (as name, e-mail, etc) from the various generated scripts in the worked on languages. All members of the team will fork the `GitHub REPO` and make the neccesary commits for task for `Stage_0`. This `README`.md contains all the necessary information to replicate the process for this task. <br>
 
   <h3 align="left"> The languages we are working with</h3>
